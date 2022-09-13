@@ -21,3 +21,5 @@ Make sure you have docker setup on your machine
 4. Schema name = ea
 
 #### After dumping the data to the db, you can see it by using the above params to run sql and query sql on you docker instance
+
+### Please note you might get an error if you try to dump the same csv file twice since it will have duplicate keys error
